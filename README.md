@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-eID Easy is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://eideasy.com/
+eID Easy provides a cloud‑based platform for electronic signatures, e‑sealing and digital identity verification. Their API lets businesses integrate qualified electronic signatures, batch signing, one‑shot signatures, hash‑based signing, timestamping and seal creation into workflows. It also offers OAuth‑2.0 based identity‑as‑a‑service, supporting European Digital Identity Wallets and national eID systems via OpenID Connect. The service targets fintech, document management, healthcare, HR and compliance use‑cases, offering on‑premise seal options and SDKs for web and mobile integration.
+
+**Areas:** Company · eSignature · eSealing · eID · DigitalIdentity
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://eideasy.com/)
+- [Documentation](https://docs.eideasy.com/)
+- [Getting started](https://www.eideasy.com/es/blog/richer-eid-data-idv-aml-onboarding)
+- [API reference](https://docs.eideasy.com/guide)
+- [Pricing](https://www.eideasy.com/pricing)
+- [Support](https://www.eideasy.com/contact)
+- [Blog](https://www.eideasy.com/blog)
+- [Terms of service](https://www.eideasy.com/legal/terms-of-service)
+- [Privacy policy](https://www.eideasy.com/legal/privacy-policy)
+- [GitHub](https://github.com/eideasy)
+- [Status](https://status.eideasy.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/eid-easy/](https://apis.io/providers/eid-easy/).
